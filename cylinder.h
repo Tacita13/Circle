@@ -1,9 +1,7 @@
 //Specification/Implementation file
 //******************************************************************
 //
-//   Programador : Isamar López Rodríguez CCOM 3034 Sección 0U1
-//   Num. Est.   : 801-08-3174            Primer Semestre 2016-2017
-//   Asignación 2                         Prof. R. J. Colorado
+//   Programador : Isamar López Rodríguez 
 //   Archivo     : cylinder.h             Fecha : 01/09/16
 //
 //******************************************************************
